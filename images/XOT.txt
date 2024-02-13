@@ -1,0 +1,98 @@
+أكواد لتحسين الكمبيوتر:
+iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))
+iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))
+iwr -useb https://christitus.com/win | iex
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+
+iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))
+
+iwr -useb https://christitus.com/win | iex
+
+CODE ultimate power
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+
+Turn off Hibernation: powercfg /hibernate off
+
+https://www.yamicsoft.com/
+revosetup.exe
+https://download.revouninstaller.com/download/revosetup.exe
+
+
+Link to download YouTube videos:
+https://sm3ha.ws/watch/%filen%d8%b9%d8%b3%danger%d8%d8%a7.html
+Intro link:
+https://panzoid.com/
+Link to check account security:
+https://haveibeenpwned.com/
+Link to check file protection:
+https://www.virustotal.com/gui/home/upload
+Link to solve any math problem in detail:
+https://ar.symbolab.com/
+Link to make a logo:
+https://www.brandcrowd.com/logo-maker?code=25offsem&sem_ab=true&gclid=EAIaIQobChMI5bSgk6fg9QIVibtCh0xpgH2EAAYASAAEgIE__D_BwE
+One-time download link:
+https://ninite.com/
+Link to check computer hardware compatibility:
+https://pcpartpicker.com/
+Link to download calculator for Windows:
+http://www.mediafire.com/file/zvfl4lfw3waprwg/Casio_fx-570VN_PLUS.zip/file
+Link to download all Adobe programs for free, latest version:
+https://www.rwabtiq.com/
+Link to download Windows lifetime activation tool:
+https://mega.nz/file/XR0lSAIA#bBHopM5fISC6abr3y7Aq3EBehHp_dV6i39E-DxkuV8I
+Link to download Office and others for free:
+https://tb.rg-adguard.net/public.php?lang=ar-SA
+باللغة العربية
+رابط لتحميل فيديوهات من اليوتيوب :
+https://sm3ha.ws/watch/موقع-سمعها.html
+رابط لعمل intro:
+https://panzoid.com/
+رابط لفحص حماية الحساب :
+https://haveibeenpwned.com/
+رابط لفحص حماية الملفات:
+https://www.virustotal.com/gui/home/upload
+رابط لحل اي مسأله رياضيات بالتفصيل :
+https://ar.symbolab.com/
+رابط لصنع logo:
+https://www.brandcrowd.com/logo-maker?code=25offsem&sem_ab=true&gclid=EAIaIQobChMI5bSgk6fg9QIVibbtCh0xpgH2EAAYASAAEgIE__D_BwE
+رابط لتحميل البرامج دفعة واحدة :
+https://ninite.com/
+رابط لفحص توافق قطع الكمبيوتر :
+https://pcpartpicker.com/
+رابط لتحميل اله حاسبة للويندوز:
+http://www.mediafire.com/file/zvfl4lfw3waprwg/Casio_fx-570VN_PLUS.zip/file
+رابط لتحميل جميع برامج ادوبي مجانا اخر اصدار:
+https://www.rwabtiq.com/
+رابط لتحميل أداة تفعيل الويندوز مدى الحياة:
+https://mega.nz/file/XR0lSAIA#bBHopM5fISC6abr3y7Aq3EBehHp_dV6i39E-DxkuV8I
+رابط لتحميل اوفيس وغيره مجانا :
+https://tb.rg-adguard.net/public.php?lang=ar-SA
+Release CrossOver v3.1.5: New Features, New Look · lacymorrow/crossover · GitHub
+https://github.com/lacymorrow/crossover/releases/tag/v3.1.5
+برنامج تفعيل الويندوز وبرامج الاوفيس
+Activate Windows and Office programs
+https://download2283.mediafire.com/9zjemoiom1vg/93cuxq9412tkehk/A.Win+11.rar
+
+
+https://uptogames.net/
+https://www.wifi4games.com/
+http://oceanofgames.com/ (ملاحظة الموقع غير أمن )
+https://cracked-games.org/
+https://worldofpcgames.co/
+https://www.skidrowreloaded.com/
+https://cpygames.com/
+https://igg-games.com/
+https://newgamesbox.com/
+https://one.akwam.cc/
+https://myegy1.com/category/games/
+Download pubg mobile for pc with direct link
+https://down.gameloop.com/k_pack_up/16229/c22158645/GLP_installer_1000218273_com.tencent.ig.exe
+Best files to improve pubg mobile on emulator
+link:{https://www.mediafire.com/file/uu30104pd5v6it4/MAX_FPS_PUBG_Mobile_%28KDY%29.rar/file }
+Explanation video:{https://www.youtube.com/watch?v=WGI1bYqldCo&t=519s&ab_channel=ELKADYTV }
+
+Clean Up Windows 10
+https://christitus.com/clean-up-windows-10/
+These files to improve the use of RAM ALL FOLDER
+https://www.sordum.org/downloads/?st-reduce-memory
+
